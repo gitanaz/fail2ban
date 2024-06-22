@@ -1,0 +1,10 @@
+[DEFAULT]
+findtime = 1d
+maxretry = 5
+bantime  = 1h
+
+[recidive]
+enabled  = yes
+findtime = 10d
+maxretry = 3
+bantime  = 365d
